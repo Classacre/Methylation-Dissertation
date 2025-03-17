@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "3bf38bf4cf9afd2d",
+            "id": "884f50642877fdcf",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.nature.com/articles/nprot.2017.055",
-                "title": "Mapping genome-wide transcription-factor binding sites using DAP-seq | Nature Protocols",
+                "url": "https://www.nature.com/articles/s41437-018-0181-z",
+                "title": "Single-cell expression noise and gene-body methylation in Arabidopsis thaliana | Heredity",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Mapping genome-wide transcription-factor binding sites using DAP-seq | Nature Protocols"
+              "title": "Single-cell expression noise and gene-body methylation in Arabidopsis thaliana | Heredity"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +198,7 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "3bf38bf4cf9afd2d",
+  "active": "2310fa01f1e3031b",
   "lastOpenFiles": [
     "Papers.md",
     "Home.md",
