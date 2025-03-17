@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Papers"
             }
-          },
-          {
-            "id": "32fee6c7fd2825b8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://academic.oup.com/gbe/article/14/4/evac038/6550137",
-                "title": "Gene Body Methylation in Plants: Mechanisms, Functions, and Important Implications for Understanding Evolutionary Processes | Genome Biology and Evolution | Oxford Academic",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Gene Body Methylation in Plants: Mechanisms, Functions, and Important Implications for Understanding Evolutionary Processes | Genome Biology and Evolution | Oxford Academic"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +184,7 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "32fee6c7fd2825b8",
+  "active": "2310fa01f1e3031b",
   "lastOpenFiles": [
     "Papers.md",
     "Home.md",
