@@ -1,0 +1,2 @@
+- [ ] Finish Obsidian Workspace
+- [ ] Publish Obsidian Workplace using Flowershop
