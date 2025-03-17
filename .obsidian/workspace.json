@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "8153dbbb946d1d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e7e139393a15eb2",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-graph-view",
+              "state": {},
+              "icon": "ReferenceMapGraphIcon",
+              "title": "Reference Map Graph"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +203,8 @@
   },
   "active": "2310fa01f1e3031b",
   "lastOpenFiles": [
-    "Papers.md",
     "Home.md",
+    "Papers.md",
     "Concepts.md",
     "README.md",
     "Untitled",
