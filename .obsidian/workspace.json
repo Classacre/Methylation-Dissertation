@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Papers"
             }
+          },
+          {
+            "id": "3bf38bf4cf9afd2d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.nature.com/articles/nprot.2017.055",
+                "title": "Mapping genome-wide transcription-factor binding sites using DAP-seq | Nature Protocols",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Mapping genome-wide transcription-factor binding sites using DAP-seq | Nature Protocols"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +199,7 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "2310fa01f1e3031b",
+  "active": "3bf38bf4cf9afd2d",
   "lastOpenFiles": [
     "Papers.md",
     "Home.md",
