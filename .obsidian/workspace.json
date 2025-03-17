@@ -22,20 +22,49 @@
             }
           },
           {
-            "id": "884f50642877fdcf",
+            "id": "3ed1ef26782a3306",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.nature.com/articles/s41437-018-0181-z",
-                "title": "Single-cell expression noise and gene-body methylation in Arabidopsis thaliana | Heredity",
+                "url": "https://doi.org/10.1371/journal.pgen.1002988",
+                "title": "data:text/plain,",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "data:text/plain,"
+            }
+          },
+          {
+            "id": "cac1637d4b457b15",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.embopress.org/doi/epdf/10.15252/msb.20188591",
+                "title": "Widespread inter‐individual gene expression variability in Arabidopsis thaliana",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Single-cell expression noise and gene-body methylation in Arabidopsis thaliana | Heredity"
+              "title": "Widespread inter‐individual gene expression variability in Arabidopsis thaliana"
+            }
+          },
+          {
+            "id": "6c88a47a100743fc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.embopress.org/doi/pdf/10.15252/msb.20188591?download=true",
+                "title": "data:text/plain,",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "data:text/plain,"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,9 +227,12 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "2310fa01f1e3031b",
+  "active": "3ed1ef26782a3306",
   "lastOpenFiles": [
     "Papers.md",
+    "Widespread inter‐individual gene expression variability in Arabidopsis thaliana.pdf",
+    "Epigenome plasticity in plants.pdf",
+    "Single-cell expression noise and gene-body methylation in Arabidopsis thaliana.pdf",
     "Home.md",
     "Concepts.md",
     "README.md",
