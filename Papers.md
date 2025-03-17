@@ -11,6 +11,7 @@
 [[Single-cell expression noise and gene-body methylation in Arabidopsis thaliana.pdf]]
 [[Epigenome plasticity in plants.pdf]]
 [[Widespread inter‐individual gene expression variability in Arabidopsis thaliana.pdf]]
+[[Deposition of Histone Variant H2A.Z within Gene Bodies Regulates Responsive Genes.pdf]]
 
 
 
